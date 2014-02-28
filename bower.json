@@ -1,0 +1,9 @@
+{
+  "name": "maires",
+  "version": "0.0.1",
+  "dependencies": {
+    "d3": "latest",
+    "jquery": "~2.1.0",
+    "queue-async": "~1.0.7"
+  }
+}
